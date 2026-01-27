@@ -55,5 +55,4 @@ Also:
 <h2>Environment</h2>
 
 Microsoft Visual Studio 2022 Version 17.14.23  
-Microsoft Visual Studio 2026 Version 18.2.1  
 Windows 11 Version 10.0.26100 Build 26100
