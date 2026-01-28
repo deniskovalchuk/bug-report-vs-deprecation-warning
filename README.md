@@ -1,5 +1,7 @@
 # Visual Studio Report
 
+https://developercommunity.visualstudio.com/t/Regression:-No-deprecation-warnings-for/11035559
+
 <h2>Problem description</h2>
 
 Visual Studio 2022 does not provide a deprecation warning for initialized declarations in `C` projects with the platform toolset v143.
